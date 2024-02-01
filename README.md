@@ -14,11 +14,13 @@ java -jar simulador-1-5-2023.jar
 ```
 Once the simulator is opened, load the circuit file (`projeto36.cir`) and the source code (`projeto36.asm`).
 
-Open the `Media Center` component on the circuit to view the display. 
+ - Open the `Media Center` component on the circuit to view the display.
+ - Open the `Keyboard` component on the circuit to view the keyboard. 
+ - Open the `Energy Display` component on the circuit to view the spaceship's energy levels. 
 
 Finally, under the `Simulation` tab, press play.
 
-If you followed these steps accordingly you're game should be running!
+If you followed these steps accordingly your game should be running!
 
 
 
