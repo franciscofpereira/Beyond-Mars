@@ -1,8 +1,12 @@
 # Beyond-Mars
 
-##Configuration
+## Gameplay
 
--Make sure you have Java installed on your machine. You can download the latest version of Java from the official website.
+https://github.com/franciscofpereira/Beyond-Mars/assets/147160910/6bfabe22-4a45-45e5-ad5a-c38cfc7efb65
+
+## Configuration
+
+- Make sure you have Java installed on your machine. You can download the latest version of Java from the official website.
 
 Open a terminal on the project's directory and type the following command to execute the assembly simulator:
 ```text
@@ -16,7 +20,5 @@ Finally, under the `Simulation` tab, press play.
 
 If you followed these steps accordingly you're game should be running!
 
-Gameplay:
 
-https://github.com/franciscofpereira/Beyond-Mars/assets/147160910/6bfabe22-4a45-45e5-ad5a-c38cfc7efb65
 
