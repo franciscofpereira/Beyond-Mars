@@ -12,7 +12,9 @@ Open a terminal on the project's directory and type the following command to exe
 ```text
 java -jar simulador-1-5-2023.jar
 ```
-Once the simulator is opened, load the circuit file (`projeto36.cir`) and the source code (`projeto36.asm`).
+Once the simulator is opened, load the circuit file (`projeto36.cir`) and the source code (`projeto36.asm`). Both files are in the `src` directory.
+
+On the assembly simulator application:
 
  - Open the `Media Center` component on the circuit to view the display.
  - Open the `Keyboard` component on the circuit to view the keyboard. 
