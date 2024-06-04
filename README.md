@@ -37,7 +37,7 @@ In the assembly simulator application:
 
 Finally, under the `Simulation` tab, press play.
 
-If you followed these steps accordingly your game should be running!
+If you followed these steps accordingly your game should be up and running!
 
 
 
