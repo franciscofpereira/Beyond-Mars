@@ -1,8 +1,10 @@
 # Beyond-Mars
 
-## Gameplay
+## Gameplay Video
 
 https://github.com/franciscofpereira/Beyond-Mars/assets/147160910/6bfabe22-4a45-45e5-ad5a-c38cfc7efb65
+
+## Gameplay Screenshots
 
 ![image](https://github.com/franciscofpereira/Beyond-Mars/assets/147160910/39b8943e-77f8-47ba-b74d-10ed3ba5b214)
 
