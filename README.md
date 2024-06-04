@@ -6,6 +6,8 @@ https://github.com/franciscofpereira/Beyond-Mars/assets/147160910/6bfabe22-4a45-
 
 ## Gameplay Screenshots
 
+![image](https://github.com/franciscofpereira/Beyond-Mars/assets/147160910/c679905c-f341-4374-8b08-be3eec51fa22)
+
 ![image](https://github.com/franciscofpereira/Beyond-Mars/assets/147160910/39b8943e-77f8-47ba-b74d-10ed3ba5b214)
 
 ![image](https://github.com/franciscofpereira/Beyond-Mars/assets/147160910/0d3c1c95-c980-4158-a0f7-bd6756a0ad78)
