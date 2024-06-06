@@ -1,5 +1,7 @@
 # Beyond-Mars
 
+## Description
+Beyond Mars is a space survival arcade game similar to Space Invaders. Players pilot a spaceship, shoot asteroids to avoid colisions and aim for the highest survival time while managing the spaceship's energy.
 ## Gameplay Video
 
 https://github.com/franciscofpereira/Beyond-Mars/assets/147160910/6bfabe22-4a45-45e5-ad5a-c38cfc7efb65
